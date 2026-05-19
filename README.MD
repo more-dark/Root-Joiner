@@ -113,7 +113,7 @@ See LICENSE file for full terms.
 For BLADE support:
 • Read this README fully first
 • Join https://discord.gg/Qs3jQ7zeah for any issue
-• Contact tool author directly (ROOT & BYTE)
+• Contact tool author directly (ROOT & BLADE)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
