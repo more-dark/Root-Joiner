@@ -40,8 +40,36 @@ Open Command Prompt/Terminal and type:
 
 ### This Command is only for Linux Users:
 
-hloi
+```
+git clone https://github.com/more-dark/Root-Joiner
+cd Root-Joiner
+```
+```
+python -m venv venv
+source venv/bin/activate
+```
+```
+pip install -r requirements.txt
+```
+```
+python3 main.py
+```
+### This Command is only for Windows Users:
 
+```
+git clone https://github.com/more-dark/Root-Joiner
+cd Root-Joiner
+```
+```
+python -m venv venv
+venv\Scripts\activate
+```
+```
+python -m pip install -r requirements.txt
+```
+```
+python3 main.py
+```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 STEP 2: ADD YOUR DISCORD TOKENS
