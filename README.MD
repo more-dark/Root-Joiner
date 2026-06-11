@@ -97,26 +97,26 @@ STEP 2: ADD YOUR DISCORD TOKENS
 
    🔁 Repeat if you have multiple tokens
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-This tool is EXCLUSIVELY for VC Joining
+This tool is EXCLUSIVELY for Chat Spaming
 ❌ No one may change, edit, or modify this tool.
 ❌ No redistribution.
 ✅ sharing allowed.
 ✅ Use freely — but only as-is.
 
 See LICENSE file for full terms.
-
 📞 SUPPORT
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 For BLADE support:
 • Read this README fully first
-• Join https://discord.gg/Qs3jQ7zeah for any issue
+• Join [https://discord.gg/bUPqSj8VzR](https://discord.gg/bUPqSj8VzR) for any issue
 • Contact tool author directly (ROOT & BLADE)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Enjoy this tool.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
